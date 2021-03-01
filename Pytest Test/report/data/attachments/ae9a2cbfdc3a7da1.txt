@@ -1,0 +1,9 @@
+{
+  "data": [
+    true, 
+    true
+  ], 
+  "msg": "收藏成功！", 
+  "status": 200
+}
+

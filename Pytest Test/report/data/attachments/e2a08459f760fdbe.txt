@@ -1,0 +1,9 @@
+{
+  "data": [
+    true, 
+    true
+  ], 
+  "msg": "点赞成功！", 
+  "status": 200
+}
+

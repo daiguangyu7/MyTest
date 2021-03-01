@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "cstatus": 0, 
+      "fstatus": 1, 
+      "gstatus": 0
+    }
+  ], 
+  "msg": "操作成功！", 
+  "status": 200
+}
+
